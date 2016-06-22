@@ -1,0 +1,2 @@
+# globaleconomy
+Global Economy describtion
